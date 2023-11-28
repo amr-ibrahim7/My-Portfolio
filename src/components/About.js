@@ -38,10 +38,10 @@ const About = () => {
               <a
                 rel="noreferrer"
                 target="__self"
-                href="https://drive.google.com/uc?export=download&id=1XlFyoWYGB2oLKfWi1sHGMLQ58ZUzOcRr"
+                href="https://drive.google.com/uc?export=download&id=1FsM3GR5INrPPaB9QIOWby9HRWS7zk-kg"
               >
                 Download My Resume
-              </a>{" "}
+              </a>
             </button>
           </div>
         </div>
